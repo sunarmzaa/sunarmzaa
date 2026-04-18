@@ -7,6 +7,20 @@ I have experience and interest in programming with Java, Python, HTML, CSS, Java
 
 ### 🛠 Tech Stack
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
+![Golang](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue?style=for-the-badge&logo=googlecloud)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-blue?style=for-the-badge&logo=digitalocean)
+
+<!--
+### 🛠 Tech Stack
+
 #### 💻 Programming & Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -27,7 +41,6 @@ I have experience and interest in programming with Java, Python, HTML, CSS, Java
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=githubactions)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=googlecloud)
-<!-- ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean) -->
 
 #### 🏗 Infrastructure & System
 ![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
@@ -43,7 +56,7 @@ I have experience and interest in programming with Java, Python, HTML, CSS, Java
 
 #### 🧰 Tools
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) -->
 
 📫 Contact Me
 Phone: 092-229-3495
