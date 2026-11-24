@@ -62,6 +62,16 @@ I have experience and interest in programming with Java, Python, HTML, CSS, Java
 Phone: 092-229-3495
 Email: sunarmzaa@gmail.com
 
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunarmzaa&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunarmzaa&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sunarmzaa&theme=tokyonight&hide_border=true)
+
+
 <!-- 👋 Hello, this is Phirahporn Kunmueang. </br>
 👀 I'm interested in programming about Java, Python, HTML, CSS, JavaScript(Vue , React , Next js), XML, PHP, Flutter. </br>
 🌱 Now I am studying Computer Engineering at Prince of Songkla University. Phuket Campus  </br>
