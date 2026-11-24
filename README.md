@@ -1,69 +1,110 @@
-Hello 👋 I'm Phiraphon Kunmueang.
-💻 I am passionate about Software Development and Cyber Security.
-I have experience and interest in programming with Java, Python, HTML, CSS, JavaScript (Vue, React, Next.js), XML, PHP, and Flutter.
-🔐 I am also interested in Cyber Security, including topics such as system security, network security, vulnerability assessment, and protecting information systems.
-🎓 I graduated with a Bachelor’s degree in Computer Engineering from Prince of Songkla University, Phuket Campus.
-🚀 I am interested in working on Web Applications, Mobile Applications, Data Collection Systems, and Information Systems, including developing secure and reliable digital platforms.
+# 👋 Hello, I'm Phiraphon Kunmueang
 
+### 💻 Software Developer | IT Infrastructure | Cybersecurity
 
-<!--### 🛠 Tech Stack
+I'm passionate about **Software Development, IT Infrastructure, and Cybersecurity**. I enjoy developing applications, managing enterprise IT systems, and exploring security technologies to build secure, reliable, and efficient digital solutions.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
-![Golang](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue?style=for-the-badge&logo=googlecloud)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-blue?style=for-the-badge&logo=digitalocean) -->
+- 💻 **Software Development:** Web Applications, Mobile Applications, Data Collection Systems, and Enterprise Information Systems.
+- 🏗 **IT Infrastructure:** Data Center Operations, Server Administration, Virtualization, Network Infrastructure, and Backup Solutions.
+- 🔐 **Cybersecurity:** System Security, Network Security, Vulnerability Assessment, Security Monitoring, and Incident Response.
+- ☁️ **DevOps & Cloud:** Docker, CI/CD, Cloud Platforms, and Infrastructure Management.
+- 🎓 **Education:** Bachelor's Degree in Computer Engineering, Prince of Songkla University, Phuket Campus.
 
-### 🛠 Tech Stack
+---
 
-#### 💻 Programming & Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+## 🛠 Tech Stack & Technologies
 
-#### 🌐 Frontend & Backend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+### 💻 Programming Languages
 
-#### 🗄 Database
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+![XML](https://img.shields.io/badge/XML-black?style=flat-square&logo=xml)
 
-#### ⚙️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=githubactions)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=googlecloud)
+### 🎨 Frontend Development
 
-#### 🏗 Infrastructure & System
-![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
-![Apache](https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vuedotjs)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
 
-#### 🔐 Security & Cybersecurity
-![Wazuh](https://img.shields.io/badge/-Wazuh-black?style=flat-square)
-![Elastic](https://img.shields.io/badge/-Elastic-black?style=flat-square&logo=elastic)
-![SIEM](https://img.shields.io/badge/-SIEM-black?style=flat-square)
-![OWASP](https://img.shields.io/badge/-OWASP-black?style=flat-square)
+### ⚙️ Backend Development
 
-#### 🧰 Tools
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+![REST API](https://img.shields.io/badge/REST_API-black?style=flat-square)
 
-📫 Contact Me
-Phone: 092-229-3495
-Email: sunarmzaa@gmail.com
+### 🗄 Database Management
 
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-black?style=flat-square&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 
-### 📊 GitHub Statistics
+### 🏢 Enterprise Applications & Business Systems
+
+![Joget DX](https://img.shields.io/badge/Joget_DX-black?style=flat-square)
+![Microsoft Dynamics AX 2009](https://img.shields.io/badge/Microsoft_Dynamics_AX_2009-black?style=flat-square&logo=microsoft)
+![Active Directory](https://img.shields.io/badge/Active_Directory-black?style=flat-square&logo=microsoft)
+
+### 🌐 Web Server & Application Server
+
+![IIS](https://img.shields.io/badge/IIS-black?style=flat-square&logo=microsoft)
+![Apache](https://img.shields.io/badge/Apache-black?style=flat-square&logo=apache)
+![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=nginx)
+
+### 🏗 Infrastructure & Virtualization
+
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-black?style=flat-square&logo=vmware)
+![VMware vSphere](https://img.shields.io/badge/VMware_vSphere-black?style=flat-square&logo=vmware)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Windows Server](https://img.shields.io/badge/Windows_Server-black?style=flat-square&logo=windows)
+![Veeam Backup](https://img.shields.io/badge/Veeam_Backup-black?style=flat-square)
+
+### ☁️ DevOps, Cloud & Automation
+
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-black?style=flat-square&logo=googlecloud)
+
+### 🔐 Cybersecurity & Security Operations
+
+![Wazuh](https://img.shields.io/badge/Wazuh-black?style=flat-square)
+![Elastic](https://img.shields.io/badge/Elastic-black?style=flat-square&logo=elastic)
+![SIEM](https://img.shields.io/badge/SIEM-black?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-black?style=flat-square&logo=owasp)
+
+### 🧰 Development & Administration Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+
+---
+
+## 🚀 Featured Projects
+
+A selection of projects focused on software development, automation, data platforms, and IT solutions.
+
+- **Open Thai Data Dashboard** — Open Data Visualization Platform.
+- **Network Health Check** — Network Diagnostics and Monitoring.
+- **Web Applications** — Modern Web Applications and Information Systems.
+
+Explore more projects on [GitHub Repositories](https://github.com/sunarmzaa?tab=repositories).
+
+---
+
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunarmzaa&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -71,16 +112,20 @@ Email: sunarmzaa@gmail.com
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunarmzaa&theme=tokyonight&hide_border=true)
 
+---
 
-<!-- 👋 Hello, this is Phirahporn Kunmueang. </br>
-👀 I'm interested in programming about Java, Python, HTML, CSS, JavaScript(Vue , React , Next js), XML, PHP, Flutter. </br>
-🌱 Now I am studying Computer Engineering at Prince of Songkla University. Phuket Campus  </br>
-💞️ I want to work on creating Web Appplication, Application, Data Collection, Data System. </br>
-📫 You can contact me at  Phone number: 0922293495
-                          Email: sunarmzaa@gmail.com
- -->
+## 📫 Contact Me
 
-<!---
-sunarmzaa/sunarmzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌍 **Portfolio:** [arm-phiraphon.vercel.app](https://arm-phiraphon.vercel.app/)
+- 💻 **GitHub:** [github.com/sunarmzaa](https://github.com/sunarmzaa)
+- 📧 **Email:** [sunarmzaa@gmail.com](mailto:sunarmzaa@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Building secure, reliable, and scalable digital solutions through technology."</i>
+</p>
+
+<p align="center">
+  ⭐ Thank you for visiting my profile!
+</p>
